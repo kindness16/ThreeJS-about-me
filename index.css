@@ -1,0 +1,17 @@
+  canvas {
+    display: block;
+  }
+  #particles-js {
+    height: 120vh;
+    max-height: 110vh;
+    width: 100%;
+    background-color: #000022;
+    background-attachment: fixed;
+    background-image: url('img/e5512ace37faa38.jpg');
+  }
+  
+  /* @media screen and (max-width: 767px){
+    #particles-js{
+      height: none;
+    }
+  } */
